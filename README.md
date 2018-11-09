@@ -5,7 +5,8 @@
 
 ## 图像融合
 下面是多模态融合的综述文章：
-1. Srivastava N, Salakhutdinov R R. **Multimodal learning with deep boltzmann machines**[C]//Advances in neural information processing systems. 2012: 2222-2230.深度学习提供了方便的融合机制，这篇文章将多模态信息融合分为early fusion,intermediate fusion 和late or decision-level fusion。
+1. Ngiam J, Khosla A, Kim M, et al. Multimodal deep learning[C]//Proceedings of the 28th international conference on machine learning (ICML-11). 2011: 689-696.
+深度学习提供了方便的融合机制，这篇文章将多模态信息融合分为early fusion,intermediate fusion 和late or decision-level fusion。
 ![Fusion Struture](https://raw.githubusercontent.com/cv-shiyanshi/multimodal-image-processing-based-neural-network/master/images/fusion.png)
 
 2. James A P, Dasarathy B V. **Medical image fusion: A survey of the state of the art**[J]. Information Fusion, 2014, 19: 4-19. 
