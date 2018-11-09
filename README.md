@@ -6,7 +6,7 @@
 ## 图像融合
 下面是多模态融合的综述文章：
 1. Srivastava N, Salakhutdinov R R. **Multimodal learning with deep boltzmann machines**[C]//Advances in neural information processing systems. 2012: 2222-2230.深度学习提供了方便的融合机制，这篇文章将多模态信息融合分为early fusion,intermediate fusion 和late or decision-level fusion。
-![Fusion Struture](https://raw.githubusercontent.com/cv-shiyanshi/Image-Fusion/master/images/fusion.png)
+![Fusion Struture](https://raw.githubusercontent.com/cv-shiyanshi/multimodal-image-processing-based-neural-network/master/images/fusion.png)
 
 2. James A P, Dasarathy B V. **Medical image fusion: A survey of the state of the art**[J]. Information Fusion, 2014, 19: 4-19. 
 这篇文章综述了医学图像融合的方法，主要按照Morphology(形态，纹理，颜色等),Knowledge, Wavelets, Artificial neural networks, Fuzzy logic 这样进行分类。
