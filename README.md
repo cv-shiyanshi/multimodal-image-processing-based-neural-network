@@ -17,9 +17,11 @@
 前端融合指的是经过一定的特征提取过程进行的特征融合，或者是完全不做处理进行特征融合。
 1. Dong H, Yang G, Liu F, et al. **Automatic brain tumor detection and segmentation using U-Net based fully convolutional networks**[C]//Annual Conference on Medical Image Understanding and Analysis. Springer, Cham, 2017: 506-517.[**github**](https://github.com/zsdonghao/u-net-brain-tumor)
 这篇文章将MRI的不同模态看作是图片不同的通道，可以看作是前端融合。
-
+2. 
 # 中端融合
 经过了一些神经网络的层，比如卷积层池化层后进行融合。
 
 # 后端融合
 在进行决策之前进行融合，通过对融合的信息进行处理，最后得到分类分割或者检测的结果。
+
+# 
