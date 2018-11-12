@@ -20,8 +20,10 @@
 
 # 中端融合
 经过了一些神经网络的层，比如卷积层池化层后进行融合。
-
+1.Liu J, Zhang S, Wang S, et al. **Multispectral Deep Neural Networks for Pedestrian Detection**[J]. (BMVC, 2016)
+这篇是讲双谱行人检测的，基于fasterrcnn方法，提出了4种将红外图像和彩色图像融合的方法，最终实验得出结论，在特征提取的中期，也就是在vgg16的第四层卷积层的时候融合效果最佳。
 # 后端融合
 在进行决策之前进行融合，通过对融合的信息进行处理，最后得到分类分割或者检测的结果。
-
+1.Wagner J, Fischer V, Herman M, et al. **Multispectral Pedestrian Detection using Deep Fusion Convolutional Neural Networks** (ESANN, 2016)
+这篇是讲双谱行人检测的，基于caffenet提取特征，实验对比了前端融合和后端融合，得出结论，在全连接层（f7）对红外图像和彩色图像融合效果最佳。
 # 
