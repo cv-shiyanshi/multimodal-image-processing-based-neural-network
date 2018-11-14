@@ -5,7 +5,7 @@
 
 ## 图像融合
 下面是多模态融合的综述文章：
-1. Ramachandram D, Taylor G W. **Deep multimodal learning: A survey on recent advances and trends **[J]. IEEE Signal Processing Magazine, 2017, 34(6): 96-108.
+1. Ramachandram D, Taylor G W. **Deep multimodal learning: A survey on recent advances and trends**[J]. IEEE Signal Processing Magazine, 2017, 34(6): 96-108.
 深度学习提供了方便的融合机制，这篇文章将多模态信息融合分为early fusion,intermediate fusion 和late or decision-level fusion。
 ![Fusion Struture](https://raw.githubusercontent.com/cv-shiyanshi/multimodal-image-processing-based-neural-network/master/images/fusion.png)
 
